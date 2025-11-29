@@ -8,6 +8,7 @@ ZetaScripts is a collection of scripts (JS) and configurations designed SOLEY fo
 The use of these tools for unauthorized access, network disruption, radio signal jamming, or any illegal activity is STRICTLY PROHIBITED! The author assumes absolutely NO f*cking responsibility for any damage or legal consequences resulting from the improper or unethical use of this code!
 
 😈 Project Overview: ZetaScripts
+
 ZetaScripts is an aggressive firmware augmentation for ESP32-based microcontrollers running alternative firmware (BRUCE).
 
 ZetaScripts automates and consolidates five critical tactical modules, allowing for integrated attacks across multiple protocols (WiFi, Bluetooth, Sub-GHz) from a single, f*cking, JS script interface.
